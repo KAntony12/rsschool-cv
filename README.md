@@ -1,2 +1,1 @@
-# rsschool-cv
-My cv
+https://KAntony12.github.io/rsschool-cv/cv
